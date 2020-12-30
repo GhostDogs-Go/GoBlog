@@ -20,6 +20,10 @@ all at the same time.
 
 Any advice will be gratefully accepted (but cannot be paid for), any issues will be looked at and will eventually be fixed, feature requests will be added to the end of the list. Please be gentle if you are pointing out any stupidity on my side.
 
+# Requirements
+Go v1.15.6
+
+
 # Version History
 v0.1    13 Dec 2020     First working Version
 
